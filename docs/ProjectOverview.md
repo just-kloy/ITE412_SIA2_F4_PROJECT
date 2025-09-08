@@ -21,7 +21,7 @@ The project scope is limited to a **desktop web portal** with a simple, user-fri
 ## 4. Tools/Technologies
 The following tools and technologies are expected to be used:  
 - **Frontend**: TypeScript, HTML, CSS  
-- **Backend**: Flask (Python)  
+- **Backend**: React, Flask (Python)  
 - **Database/Backend Services**: Firebase (Authentication, Firestore, Hosting)  
 - **Development Tools**: VS Code, Git/GitHub  
 - **Design Tools**: Figma/Canva for UI wireframes  
