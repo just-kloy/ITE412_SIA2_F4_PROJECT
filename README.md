@@ -9,7 +9,7 @@
   * **Jhon Carlo Jimenez** – Team Lead, Developer  
   * **John Mark Pagaduan** – Documentation Lead  
   * **Huriecane Ivan Ganio** – Integration Lead  
-  * **Jerico Raquedan** – Tester
+  * **Jerico V. Raquedan** – Tester
 
 ---
 
