@@ -10,7 +10,6 @@
   * **John Mark V. Pagaduan** – Documentation Lead  
   * **Huriecane Ivan Ganio** – Integration Lead  
   * **Jerico Raquedan** – Tester
-
 ---
 
 ## Project Description
